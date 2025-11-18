@@ -13,8 +13,6 @@ const e=(()=>{
 const c=(()=>{
     console.log("Hello, World! c");
 })
-
-
 const d=(()=>{
     console.log("Hello, World! a");
     console.log("Hello, World! a");
