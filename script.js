@@ -6,7 +6,7 @@ const b=(()=>{
     console.log("Hello, World! b");
 })
 
-const c=(()=>{
+const e=(()=>{
     console.log("Hello, World! c");
 })
 
