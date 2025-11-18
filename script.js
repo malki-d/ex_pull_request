@@ -3,7 +3,11 @@ const a=(()=>{
 })
 
 const b=(()=>{
-    console.log("Hello, World! a");
+    console.log("Hello, World! b");
+})
+
+const c=(()=>{
+    console.log("Hello, World! c");
 })
 
 
