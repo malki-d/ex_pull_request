@@ -5,3 +5,9 @@ const a=(()=>{
 const b=(()=>{
     console.log("Hello, World! a");
 })
+
+
+const d=(()=>{
+    console.log("Hello, World! a");
+})
+
