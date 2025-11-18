@@ -14,4 +14,7 @@ const c=(()=>{
 const d=(()=>{
     console.log("Hello, World! a");
 })
+const e=(()=>{
+    console.log("Hello, World! e");
+})
 
