@@ -7,6 +7,10 @@ const b=(()=>{
 })
 
 const e=(()=>{
+    console.log("Hello, World! e");
+})
+
+const c=(()=>{
     console.log("Hello, World! c");
 })
 
