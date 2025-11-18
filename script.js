@@ -7,7 +7,7 @@ const b=(()=>{
 })
 
 const c=(()=>{
-    console.log("Hello, World! c");
+    console.log("Hello, World! c main");
 })
 
 
