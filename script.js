@@ -10,7 +10,7 @@ const c=(()=>{
     console.log("Hello, World! c main");
 })
 const e=(()=>{
-    console.log("Hello, World! e");
+    console.log("Hello, World! e mainnn");
 })
 const d=(()=>{
     console.log("Hello, World! a");
