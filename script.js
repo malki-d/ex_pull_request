@@ -13,5 +13,10 @@ const c=(()=>{
 
 const d=(()=>{
     console.log("Hello, World! a");
+    console.log("Hello, World! a");
+    console.log("Hello, World! a");
+    console.log("Hello, World! a");
+    console.log("Hello, World! a");
+
 })
 
